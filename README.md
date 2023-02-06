@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 </div>
 
+<!--
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/lavinal712/lavinal712/assets/images/hr.gif" />
 
@@ -86,3 +87,4 @@ Here are some ideas to get you started:
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/lavinal712/lavinal712/assets/images/rocket.png"/>
 </div>
+--!>
