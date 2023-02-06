@@ -30,3 +30,8 @@ Here are some ideas to get you started:
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lavinal712&theme=dark&hide_border=true" />
 </div>
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=lavinal712&theme=xcode" />
+</div>
+
