@@ -34,4 +34,3 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=lavinal712&theme=xcode" />
 </div>
-
