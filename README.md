@@ -33,4 +33,8 @@ Here are some ideas to get you started:
 
 [![lavinal712's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lavinal712)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
+</div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lavinal712&theme=dark&hide_border=true)](https://git.io/streak-stats)
