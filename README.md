@@ -13,6 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- profile logo 个人资料徽标 -->
+  <div align="center">
+    <a href="https://home.ustc.edu.cn/~austin712/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://space.bilibili.com/352135005/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/adustinexl/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <!-- visitor statistics logo 访客数统计徽标 -->
+    <img src="https://visitor-badge.glitch.me/badge?page_id=lavina712" alt="访客统计" />
+  </div>
+
 <div align="center" >
   
 <!-- Quotes 名人名言 -->
